@@ -1,0 +1,3 @@
+blue: https://imagecolorpicker.com/color-code/2596be
+green: https://imagecolorpicker.com/color-code/25be88
+red : https://imagecolorpicker.com/color-code/be2528
