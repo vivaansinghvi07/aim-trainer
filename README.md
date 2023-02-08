@@ -12,3 +12,5 @@ This game tests comfortability with mouse movement, as the aim is to follow a po
 
 ## CPS Test:
 This game simply tests the speed at which you can click your mouse.
+
+### Date: 2023/01/31
